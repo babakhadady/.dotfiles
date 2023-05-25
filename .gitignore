@@ -39,3 +39,9 @@ luac.out
 *.x86_64
 *.hex
 
+*/yarn-lock
+*/yarn-error.log
+*/source
+*/package.json
+
+
